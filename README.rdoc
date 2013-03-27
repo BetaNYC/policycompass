@@ -1,6 +1,8 @@
 == Policy Compass
+(policycompass.herokuapp.com)
 
 managed by Ashley Williams, @ag_dubs
+a project by OpenNY, a proud member of the Code for America Brigade
 
-spec: https://hackpad.com/Policy-Compass-Product-Spec-g90t7tC6clE
+
 
